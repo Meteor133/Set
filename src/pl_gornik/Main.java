@@ -67,6 +67,8 @@ public class Main {
 
         for (Person person: persons2) System.out.println(person);
 
+        System.out.println("linijka");
+
 
 
     }
